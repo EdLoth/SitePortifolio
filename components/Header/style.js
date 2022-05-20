@@ -26,7 +26,7 @@ export const NavLinks = styled.nav`
 
   @media (max-width: 560px) {
     flex-direction: column;
-    background-color: #161616;
+    background-color: red;
     position: fixed;
     height: 100%;
 

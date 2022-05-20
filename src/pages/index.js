@@ -30,12 +30,7 @@ export default function Home() {
           </Link>
         </Infos>
         <Logo>
-          <Lottie
-            options={defaultOptions}
-            style={{ marginLeft: "10vh", marginBottom: "10vh"}}
-            height={400}
-            width={540}
-          />
+          <Img src="/images/logo.png" alt="logo" />
         </Logo>
       </Content>
     </Container>
